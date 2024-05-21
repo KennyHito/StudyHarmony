@@ -1,0 +1,24 @@
+{
+  "types": "",
+  "keywords": [
+    "pinyin4js",
+    "openHarmony"
+  ],
+  "author": "ohos_tpc",
+  "description": "pinyin4js是一款适配了OpenHarmony的汉字转拼音的开源库",
+  "ohos": {
+    "org": "opensource"
+  },
+  "main": "index.ets",
+  "type": "module",
+  "repository": "https://gitee.com/openharmony-tpc/pinyin4js",
+  "version": "2.0.0",
+  "dependencies": {
+  },
+  "tags": [
+    "Tool"
+  ],
+  "license": "MIT license",
+  "devDependencies": {},
+  "name": "@ohos/pinyin4js"
+}

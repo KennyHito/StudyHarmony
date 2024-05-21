@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/apple/.ohos/config/auto_debug_StudyHarmonyOS_com.example.studyharmonyos_2850086000446071157.cer",
+          "storePassword": "0000001AC8C2AD94A7A946EF4523F815B1BA20A2EEC49A63E03F66778156A82C4B5D96956C993289A5AB",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001A93187FA655605D5EBDF5701CED4CB11ABF674E59077B2C36831FE419DE0612515D0EB4C3506B",
+          "profile": "/Users/apple/.ohos/config/auto_debug_StudyHarmonyOS_com.example.studyharmonyos_2850086000446071157.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/apple/.ohos/config/auto_debug_StudyHarmonyOS_com.example.studyharmonyos_2850086000446071157.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

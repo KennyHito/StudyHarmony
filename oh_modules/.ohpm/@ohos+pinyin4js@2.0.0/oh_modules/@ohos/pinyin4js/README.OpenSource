@@ -1,0 +1,11 @@
+[
+  {
+   "Name":"pinyin4js",
+   "License":"MIT License",
+   "License File":"LICENSE",
+   "Version Number":"v1.3.18",
+   "Owner":"Kaifun",
+   "Upstream URL":"https://github.com/Kaifun/pinyin4js",
+   "Description": "A opensource javascript library for converting chinese to pinyin."
+  }
+]

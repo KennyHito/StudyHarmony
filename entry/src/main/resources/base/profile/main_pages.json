@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/BasePage/BasePage",
+    "pages/DialogPage/DialogPage",
+    "pages/VideoPage/VideoPage",
+    "pages/ImagePage/ImagePage",
+    "pages/WebPage/WebPage",
+    "pages/NetworkPage/NetworkPage",
+    "pages/FlexPage/FlexPage"
+  ]
+}
